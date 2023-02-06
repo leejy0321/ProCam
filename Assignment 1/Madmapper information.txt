@@ -1,0 +1,65 @@
+Madmapper basics
+
+ Madmapper tutorial 1-5
+  https://www.youtube.com/watch?v=MlKtvh1f-jw&t=103s
+
+ Spacial scanning
+  https://www.youtube.com/watch?v=CwRKvBL7jvE
+
+
+1. Create project / Saving project
+
+ Top menu 
+ Submenu on the upper/middle left
+ Property setting on lower left
+
+2. Projector setting (Projector icon on top menu)
+ - Add (+) projector
+ - Choose the projector
+ - Set its properties
+  - Resolution
+  - Others
+   - Highlight background
+   - Use test pattern
+   - Flip / rotate / opacity ...
+
+3. Output (Output icon on top menu)
+ - Desktop output - Control T
+ - Full screen - Control U
+
+4. Deleting things - select with mouse and use delete button
+
+5. Input (Layers icon (far left) on top menu)
+ - Create surfaces (or layers) - quad, line, triangle, circle, ...
+ - Stack layers from bottom to top -- over, add, others
+ - Lock and disable/enable layers
+ - Set their properties 
+  - Over, add, multiply ...
+   others
+
+ - Scale, move, warp, ... the layers
+   Shift move --> snap the corners
+ 
+  - Mesh editing - complicated shapes and warps
+  - Masking
+
+6. Resources (on the right part of the app window)
+
+  Use various types of resources applied to the layers - Drag them over to import
+   images (jpg, png, ...)
+   movies (mp4, ...)
+   isf pattern files
+   After effects
+  
+   Resource property settings (color, opacity, etc.) - lower right
+
+7. Organizing the windows
+
+8. 3D scanning (Spacial scanning) - Taking picture from perspective of the projector
+ Use Tools icon from top menu
+ Choose Spacial scanning
+  Choose the camera
+  After setting your targets up, just press "Capture"
+ Save it as jpeg file
+
+ Import it as bottom layer to guide designing your input layers 
